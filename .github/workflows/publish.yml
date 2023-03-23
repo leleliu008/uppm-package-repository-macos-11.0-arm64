@@ -46,11 +46,11 @@ jobs:
               PACKAGE_WEB_URL="$(${{ github.workspace }}/xcpkg info "$PACKAGE_NAME" web-url)"
               PACKAGE_VERSION="$(${{ github.workspace }}/xcpkg info "$PACKAGE_NAME" version)"
 
-              PACKAGE_BIN_FILEPATH="$HOME/.xcpkg/packed/$PACKAGE_NAME-$PACKAGE_VERSION-macos11.0-arm64.tar.xz"
+              PACKAGE_BIN_FILENAME="$PACKAGE_NAME-$PACKAGE_VERSION-macos11.0-arm64.tar.xz"
 
-              PACKAGE_BIN_SHA=$(sha256sum "$PACKAGE_BIN_FILEPATH" | cut -d ' ' -f1)
+              PACKAGE_BIN_SHA=$(sha256sum "$PACKAGE_BIN_FILENAME" | cut -d ' ' -f1)
 
-              PACKAGE_BIN_URL="https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/${TAGNAME}/${PACKAGE_BIN_FILEPATH}"
+              PACKAGE_BIN_URL="https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/${TAGNAME}/${PACKAGE_BIN_FILENAME}"
 
               cat > "$UPPM_FORMULA_DIR/$PACKAGE_NAME.yml" <<EOF
           summary: $PACKAGE_SUMMARY
@@ -68,7 +68,7 @@ jobs:
           cat > notes.md <<EOF
           these packages are created by [xcpkg](https://github.com/leleliu008/xcpkg).
 
-          these packages have no dependencies other than \`/usr/lib/lib\*.dylib\` and \`/System/Library/Frameworks/\*.framework\`.
+          these packages have no dependencies other than \`/usr/lib/lib*.dylib\` and \`/System/Library/Frameworks/*.framework\`.
 
           these packages are relocatable which means that you can install them to anywhere.
 
@@ -76,22 +76,22 @@ jobs:
 
           **following environment variables should be set for \`git\` package**
 
-          ```bash
-          export GIT_EXEC_PATH="$GIT_INSTALL_DIR/libexec/git-core"
-          export GIT_TEMPLATE_DIR="$GIT_INSTALL_DIR/share/git-core/templates"
-          ```
+          \`\`\`bash
+          export GIT_EXEC_PATH="\$GIT_INSTALL_DIR/libexec/git-core"
+          export GIT_TEMPLATE_DIR="\$GIT_INSTALL_DIR/share/git-core/templates"
+          \`\`\`
 
           **following environment variables should be set for \`file\` package**
 
-          ```bash
-          export MAGIC="$FILE_INSTALL_DIR/share/misc/magic.mgc"
-          ```
+          \`\`\`bash
+          export MAGIC="\$FILE_INSTALL_DIR/share/misc/magic.mgc"
+          \`\`\`
 
           ## sha256sum
 
-          ```
+          \`\`\`
           $(cat sha256sums.txt)
-          ```
+          \`\`\`
           EOF
 
           # to avaid: failed to run git: fatal: not a git repository (or any of the parent directories): .git
