@@ -42,9 +42,9 @@ jobs:
 
           for PACKAGE_NAME in $PKG_NAMES
           do
-              PACKAGE_SUMMARY="$(./xcpkg info "$PACKAGE_NAME" summary)"
-              PACKAGE_WEB_URL="$(./xcpkg info "$PACKAGE_NAME" web-url)"
-              PACKAGE_VERSION="$(./xcpkg info "$PACKAGE_NAME" version)"
+              PACKAGE_SUMMARY="$(${{ github.workspace }}/xcpkg info "$PACKAGE_NAME" summary)"
+              PACKAGE_WEB_URL="$(${{ github.workspace }}/xcpkg info "$PACKAGE_NAME" web-url)"
+              PACKAGE_VERSION="$(${{ github.workspace }}/xcpkg info "$PACKAGE_NAME" version)"
 
               PACKAGE_BIN_FILEPATH="$HOME/.xcpkg/packed/$PACKAGE_NAME-$PACKAGE_VERSION-macos11.0-arm64.tar.xz"
 

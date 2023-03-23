@@ -1,4 +1,4 @@
-# uppm-package-repository-macos11.0-x86_64
+# uppm-package-repository-macos11.0-arm64
 
 these packages are created by [xcpkg](https://github.com/leleliu008/xcpkg).
 
