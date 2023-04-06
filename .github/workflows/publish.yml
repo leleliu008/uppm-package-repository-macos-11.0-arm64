@@ -10,7 +10,7 @@ jobs:
     # cppcheck git do not support cross-compiling
     env:
       GH_TOKEN: ${{ github.token }}
-      PKG_NAMES: aria2 axel autotools-setup bash bat bison bmake bzip2 b3sum cargo-c cmake coreutils ctop curlie curl darkhttpd diffutils dos2unix doxygen ed file findutils flex fzf gawk glow gm4 gmake gnupg gh gn gogs gotop gotty gperf grep gsed gtar gzip hugo jq lazygit libarchive lzip lz4 mediainfo mosh mpg123 nasm ninja nushell openssl patchelf patch pkgconf pkg-config pngquant putty pigz qpdf qrencode quickjs re2c rtmpdump sqlite starship svn-lite tcpdump tealdeer tig tmux tree uctags unrar unzip uppm util-linux volta wget xmake xxd xz yasm youtubedr yq zopfli zip p7zip zstd base16 base64 sysinfo easyutils
+      PKG_NAMES: aria2 axel autotools-setup bash bat bison bmake bzip2 b3sum cargo-c cmake coreutils ctop curlie curl darkhttpd diffutils dos2unix doxygen ed file findutils flex fzf gawk glow gm4 gmake gnupg gh gn gogs gotop gotty gperf grep gsed gtar gzip hugo jq lazygit libarchive lzip lz4 mediainfo mosh mpg123 nasm ninja nushell openssl patchelf patch pkgconf pkg-config pngquant putty protobuf pigz qpdf qrencode quickjs re2c rtmpdump sqlite starship svn-lite tcpdump tealdeer tig tmux tree uctags unrar unzip uppm util-linux volta wget xmake xxd xz yasm youtubedr yq zopfli zip p7zip zstd base16 base64 sysinfo easyutils
 
     steps:
       - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
@@ -44,7 +44,7 @@ jobs:
 
               PACKAGE_BIN_FILENAME="$PACKAGE_NAME-$PACKAGE_VERSION-macos11.0-arm64.tar.xz"
 
-              PACKAGE_BIN_SHA=$(sha256sum "$PACKAGE_BIN_FILENAME" | cut -d ' ' -f1)
+              PACKAGE_BIN_SHA=$(~/.uppm/installed/coreutils/bin/sha256sum "$PACKAGE_BIN_FILENAME" | cut -d ' ' -f1)
 
               PACKAGE_BIN_URL="https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/${TAGNAME}/${PACKAGE_BIN_FILENAME}"
 
@@ -59,7 +59,7 @@ jobs:
 
           tar cvJf "$UPPM_FORMULA_ROOT_DIR.tar.xz" "$UPPM_FORMULA_ROOT_DIR"
 
-          sha256sum *.tar.xz > sha256sums.txt
+          ~/.uppm/installed/coreutils/bin/sha256sum *.tar.xz > sha256sums.txt
 
           cat > notes.md <<EOF
           these packages are created by [xcpkg](https://github.com/leleliu008/xcpkg).
