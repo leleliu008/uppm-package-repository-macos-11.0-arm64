@@ -1,5 +1,5 @@
-summary: Helper program to build and install c-like libraries
+summary: A helper program to build and install C-ABI compatible dynamic and static libraries
 webpage: https://github.com/lu-zero/cargo-c
-version: 0.9.24
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/cargo-c-0.9.24-macos11.0-arm64.tar.xz
-bin-sha: 39d14dffddc3f4cc75ad5539fb43ec75b97d29c66e61ebc14808573057ae00d1
+version: 0.9.32
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/cargo-c-0.9.32-macos-11.0-arm64.tar.xz
+bin-sha: 5bff17e6cd3d8ea1e3268d8848b1c13e5a47143d27943b9630ef715eb1c6b36f

@@ -1,0 +1,5 @@
+summary: C++ class libraries for building network and internet-based applications
+webpage: https://pocoproject.org/
+version: all
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/poco-all-macos-11.0-arm64.tar.xz
+bin-sha: 8946a1c75752e773b2f60c623ae08e7a489956e37a4c93e48557e41d808be6e2

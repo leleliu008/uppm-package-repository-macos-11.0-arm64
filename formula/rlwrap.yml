@@ -1,0 +1,5 @@
+summary: Readline wrapper, adds readline support to tools that lack it
+webpage: https://github.com/hanslub42/rlwrap
+version: 0.46.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/rlwrap-0.46.1-macos-11.0-arm64.tar.xz
+bin-sha: b66def46af59952c539750e236261c24bda560608de61c36a1d05173616f5150

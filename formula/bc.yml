@@ -1,0 +1,5 @@
+summary: Arbitrary precision numeric processing language
+webpage: https://www.gnu.org/software/bc
+version: 1.07.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/bc-1.07.1-macos-11.0-arm64.tar.xz
+bin-sha: f82114449579f82b913f1f2b1b45bc61845a94ae8f1c8de0c725ff812f08b6a2

@@ -1,0 +1,5 @@
+summary: BitTorrent library with a focus on high performance
+webpage: https://github.com/rakshasa/libtorrent
+version: 0.13.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libtorrent-rakshasa-0.13.8-macos-11.0-arm64.tar.xz
+bin-sha: c3abb52c2bc0933d550e017bbf0ff023147f21a8cec5131ff7b6c53a94bd9268

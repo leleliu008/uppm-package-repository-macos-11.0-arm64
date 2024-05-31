@@ -1,0 +1,5 @@
+summary: C++ template library for linear algebra
+webpage: https://eigen.tuxfamily.org/
+version: 3.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/eigen-3.4.0-macos-11.0-arm64.tar.xz
+bin-sha: 7203187e9b70c508b2b4cf9ef7360984895fafbf048df39b420f491a671fe4cb

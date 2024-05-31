@@ -1,0 +1,5 @@
+summary: A simple header-only C++ argument parser library
+webpage: https://github.com/Taywee/args
+version: 6.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/args-6.3.0-macos-11.0-arm64.tar.xz
+bin-sha: 2461d69553cb6e05beae395270a1eed5f4666a91102bd26018424fd4dddd4b92

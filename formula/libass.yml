@@ -1,0 +1,5 @@
+summary: Subtitle renderer for the ASS/SSA subtitle format
+webpage: https://github.com/libass/libass
+version: 0.17.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libass-0.17.1-macos-11.0-arm64.tar.xz
+bin-sha: 7fa9d1890ac0322ef2d23da191fc3e66db702fe05613e801d15d7896cd2bab30

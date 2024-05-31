@@ -1,0 +1,5 @@
+summary: Simple, modern, secure file encryption
+webpage: https://filippo.io/age
+version: 1.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/age-1.1.1-macos-11.0-arm64.tar.xz
+bin-sha: 2b81596fd23ac44e14060d90f5f66051ecb8f8e0ee12fb3e662e2ab5e3e45edc

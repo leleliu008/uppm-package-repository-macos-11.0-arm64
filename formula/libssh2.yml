@@ -1,0 +1,5 @@
+summary: C library implementing the SSH2 protocol
+webpage: https://libssh2.org/
+version: 1.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libssh2-1.11.0-macos-11.0-arm64.tar.xz
+bin-sha: 44864fa3695158b029ec5a2b57ba5867ebd538a04bf24f61337cff9bbad1d5e0

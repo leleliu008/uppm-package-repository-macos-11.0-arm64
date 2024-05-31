@@ -1,0 +1,5 @@
+summary: Library for reading RAW files from digital photo cameras
+webpage: https://www.libraw.org/
+version: 0.21.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libraw-0.21.2-macos-11.0-arm64.tar.xz
+bin-sha: 5e68fab4685acdb45a3f3dd6fcd7de75667c6f43e5405cc72b17512b1d86867c

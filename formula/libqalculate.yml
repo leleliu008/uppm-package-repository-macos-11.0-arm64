@@ -1,0 +1,5 @@
+summary: Library for Qalculate! program
+webpage: https://qalculate.github.io/
+version: 5.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libqalculate-5.0.0-macos-11.0-arm64.tar.xz
+bin-sha: a8d19c035e4d201f1aee3ef1880876caef8e7b74788f02da7741b0e8dca2d9f3
