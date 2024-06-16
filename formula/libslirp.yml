@@ -1,5 +1,5 @@
 summary: General purpose TCP-IP emulator
 webpage: https://gitlab.freedesktop.org/slirp/libslirp
 version: 4.8.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libslirp-4.8.0-macos-11.0-arm64.tar.xz
-bin-sha: fe61fbb952da62d927fa1d77123abf48484df338ddd2652b5055e581dc142a2b
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libslirp-4.8.0-macos-11.0-arm64.tar.xz
+bin-sha: 97d9a9c49081f65e525d43245c89cb22298ec6b0f72d7ac2173adfa957e90b3d

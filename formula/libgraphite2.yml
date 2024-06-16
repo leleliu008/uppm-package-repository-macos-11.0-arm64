@@ -1,5 +1,5 @@
 summary: Smart font renderer for non-Roman scripts
 webpage: https://graphite.sil.org
 version: 1.3.14
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libgraphite2-1.3.14-macos-11.0-arm64.tar.xz
-bin-sha: 60d0045e076afddd4d8cabc12ce8b0b2b466e6f611fded24c1f1f89d6aa115df
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libgraphite2-1.3.14-macos-11.0-arm64.tar.xz
+bin-sha: 40fa707369552b32cd691e79a1186edeca3990d8bcd71b0771028b30af358f66

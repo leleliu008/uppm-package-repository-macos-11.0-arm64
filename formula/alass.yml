@@ -1,5 +1,5 @@
 summary: Automatic Language-Agnostic Subtitle Synchronization
 webpage: https://github.com/kaegi/alass
-version: 2024.05.31
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/alass-2024.05.31-macos-11.0-arm64.tar.xz
-bin-sha: 6d6cbf490e46bc6d9d1d472c81752515a820057850dff43b32123b63be70477c
+version: 2024.06.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/alass-2024.06.15-macos-11.0-arm64.tar.xz
+bin-sha: d834fc23091c3b8cee80da130eef58dcc18c83f7bc792425076eef7001d81c7c

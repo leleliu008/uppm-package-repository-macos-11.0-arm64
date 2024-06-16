@@ -1,5 +1,5 @@
 summary: A git-compatible distributed version control system
 webpage: https://github.com/martinvonz/jj
 version: 0.17.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/jj-0.17.1-macos-11.0-arm64.tar.xz
-bin-sha: a97ec105127571a9e9cb2d4adaa2ddaf762a9c95258cd80eea2baf5dfed8efd3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/jj-0.17.1-macos-11.0-arm64.tar.xz
+bin-sha: a691bf91c7f7e19744e184dc41bafbebda4de1c38b411cb5cb5503b8769b3641

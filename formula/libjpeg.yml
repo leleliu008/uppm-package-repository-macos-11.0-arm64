@@ -1,5 +1,5 @@
 summary: Image manipulation library
 webpage: https://www.ijg.org/
 version: 9f
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libjpeg-9f-macos-11.0-arm64.tar.xz
-bin-sha: 2b61b0d23c10f2b615ae248c32aed3cf0ac179f4d7e924c8ffb0e416dd72f2cf
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libjpeg-9f-macos-11.0-arm64.tar.xz
+bin-sha: 10c7afe6d8d5a3afff522016500cf57c6fb90ff7fd28a71e003106f2e06d211a

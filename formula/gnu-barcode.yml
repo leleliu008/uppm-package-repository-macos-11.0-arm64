@@ -1,5 +1,5 @@
 summary: Convert text strings to printed bars
 webpage: https://www.gnu.org/software/barcode/
 version: 0.99
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/gnu-barcode-0.99-macos-11.0-arm64.tar.xz
-bin-sha: 15a4ec1b9d685c89d8490902763d1f6550ba49f2ceb58a6162c325841ac1681a
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/gnu-barcode-0.99-macos-11.0-arm64.tar.xz
+bin-sha: be39c09ce454cc5268790145eb07d48a41b3a03110be11ca3ee16cc7c35efbf2

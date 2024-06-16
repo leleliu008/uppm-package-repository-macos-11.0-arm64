@@ -1,5 +1,5 @@
 summary: Open source continuous file synchronization application
 webpage: https://syncthing.net/
 version: 1.27.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/syncthing-1.27.7-macos-11.0-arm64.tar.xz
-bin-sha: d43522d08bb2ea98c7ef6712dd4f99effec97a69de6432165ec847d4747f299f
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/syncthing-1.27.7-macos-11.0-arm64.tar.xz
+bin-sha: d8e900e3fca108526c5d4ea91ae313e6654f99580a707024d97ffab9abb2f4f0

@@ -1,5 +1,5 @@
 summary: Pluggable transport proxy for Tor, implementing obfs4
 webpage: https://github.com/Yawning/obfs4
 version: 0.0.14
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/obfs4proxy-0.0.14-macos-11.0-arm64.tar.xz
-bin-sha: 7cd0b8aa3f883b78457fe86dfb3120779b9f22f63a4beed750a936673c605837
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/obfs4proxy-0.0.14-macos-11.0-arm64.tar.xz
+bin-sha: 71a7be232b1c4480bf0be6ddffef150a369368e36a5d326543a6b7e03d3242e0

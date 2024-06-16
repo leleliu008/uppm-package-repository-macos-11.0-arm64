@@ -1,5 +1,5 @@
 summary: Tiny C compiler
 webpage: http://www.tinycc.org/
 version: 0.9.27
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/tcc-0.9.27-macos-11.0-arm64.tar.xz
-bin-sha: 7ca0d988c6955887bd39a9c3ef37125093ec6a3730a2826d62495890516cfa49
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/tcc-0.9.27-macos-11.0-arm64.tar.xz
+bin-sha: add1d27dac89988b17083282a127192b36fadff8ff80fb690e12ad8abd876a5f

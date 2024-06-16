@@ -1,5 +1,5 @@
 summary: Cross-platform Audio Library
 webpage: https://www.xiph.org/ao
 version: 1.2.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libao-1.2.2-macos-11.0-arm64.tar.xz
-bin-sha: 4fd57b3795d6afe6d074cff0bf7a0123406c5952f96c3bb4731cf8162c7e6289
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libao-1.2.2-macos-11.0-arm64.tar.xz
+bin-sha: de11262a9dded3a57d73291c1a41fa5e0b12390c6d47cbbfb33974563bbec46e

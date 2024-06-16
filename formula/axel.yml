@@ -1,5 +1,5 @@
 summary: A lightweight download accelerator
 webpage: https://github.com/axel-download-accelerator/axel
 version: 2.17.14
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/axel-2.17.14-macos-11.0-arm64.tar.xz
-bin-sha: e45002b610217feea439ba319063318d58cd6c36ce91288a49db2fa3d547d5ab
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/axel-2.17.14-macos-11.0-arm64.tar.xz
+bin-sha: 4ade17bf075be2e43a6054775d758667e8cf3ae3f73191da145330c141784125

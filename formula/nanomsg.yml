@@ -1,5 +1,5 @@
 summary: Socket library in C
 webpage: https://nanomsg.org/
 version: 1.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/nanomsg-1.2-macos-11.0-arm64.tar.xz
-bin-sha: fa2f59712f2da05dfd2b204234e82417a431215294676b8e5a3c6707118cbf28
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/nanomsg-1.2-macos-11.0-arm64.tar.xz
+bin-sha: 6a2eb016e27082e76dddad6454c657d5d345bdf379a8aec87d5c27fa4f9c1d96

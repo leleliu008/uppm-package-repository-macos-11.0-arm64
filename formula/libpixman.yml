@@ -1,5 +1,5 @@
 summary: A low-level library for pixel manipulation
 webpage: https://cairographics.org
 version: 0.42.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libpixman-0.42.2-macos-11.0-arm64.tar.xz
-bin-sha: 9b79afebafa0d29b9e53f4cfddca3324fa8b5ee01e80890e809100091c3271b9
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libpixman-0.42.2-macos-11.0-arm64.tar.xz
+bin-sha: 2c731e5770ff8dd1e95f4bbce72ae2c5624ed3b9287dbbf6dcc77a098654d04b

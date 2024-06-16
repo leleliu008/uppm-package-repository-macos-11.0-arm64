@@ -1,5 +1,5 @@
 summary: Shell Script Compiler
 webpage: https://neurobin.github.io/shc
 version: 4.0.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/shc-4.0.3-macos-11.0-arm64.tar.xz
-bin-sha: 178951f8fdbd4f6f7f67bcfe4b061427f1f5cbe6bc8f297da538eaa8b70bd747
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/shc-4.0.3-macos-11.0-arm64.tar.xz
+bin-sha: f1264d49dffdb94736459d8e28e902a68fe9b461b32a2a7ba4dd64612d77ab06

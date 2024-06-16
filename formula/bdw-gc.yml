@@ -1,5 +1,5 @@
 summary: Garbage collector for C and C++
 webpage: https://www.hboehm.info/gc/
 version: 8.2.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/bdw-gc-8.2.6-macos-11.0-arm64.tar.xz
-bin-sha: e9a5a695591082a29e1dbe8fbd8f44311f1d7f24dc0179dd9b20bea98d567e31
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/bdw-gc-8.2.6-macos-11.0-arm64.tar.xz
+bin-sha: 3a772d9b507c7c73c43922e7e7e182e4b75cc033e98fcf92a4887c34b153b67a

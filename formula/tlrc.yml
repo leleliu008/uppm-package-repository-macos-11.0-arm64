@@ -1,5 +1,5 @@
 summary: Official tldr client written in Rust
 webpage: https://github.com/tldr-pages/tlrc
 version: 1.9.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/tlrc-1.9.2-macos-11.0-arm64.tar.xz
-bin-sha: 2eee0e61caaf6021b9a6f59e13817d4ed3728c93c46a4b95544e80b41a54e631
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/tlrc-1.9.2-macos-11.0-arm64.tar.xz
+bin-sha: fe62c1685c6355de30417caaa30c2a3b0248a782e11f929adcb38142864047ca

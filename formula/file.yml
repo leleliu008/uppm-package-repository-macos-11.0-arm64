@@ -1,5 +1,5 @@
 summary: A command-line tool to determine file types
 webpage: https://www.darwinsys.com/file
 version: 5.45
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/file-5.45-macos-11.0-arm64.tar.xz
-bin-sha: 2430700f5212751f55ed5779cda7ccf00e200b97325507b2253f3cecadd0c7ff
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/file-5.45-macos-11.0-arm64.tar.xz
+bin-sha: 8ad7555ec17249c2ad68f65c0e2c0e9112c1d596fe2c07a918656259acc73733

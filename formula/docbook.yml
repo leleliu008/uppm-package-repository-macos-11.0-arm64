@@ -1,0 +1,5 @@
+summary: Standard SGML representation system for technical documents
+webpage: https://docbook.org/
+version: 2024.06.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/docbook-2024.06.15-macos-11.0-arm64.tar.xz
+bin-sha: a7f7dfc964a100e43f1d2d567ff69e964d695302813f3ead971e367d0b6138d2

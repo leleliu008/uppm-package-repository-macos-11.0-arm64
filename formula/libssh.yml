@@ -1,5 +1,5 @@
 summary: C library SSHv1/SSHv2 client and server protocols
 webpage: https://www.libssh.org/
 version: 0.10.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libssh-0.10.6-macos-11.0-arm64.tar.xz
-bin-sha: e4766be10ecc605b2b588494db46aa7650aee7e85e5636e9fee22667bc2f1282
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libssh-0.10.6-macos-11.0-arm64.tar.xz
+bin-sha: 1870089e8e18a9f823ac314a919b1625c1e9f8701ca4eb6364fb042d3ec83f43

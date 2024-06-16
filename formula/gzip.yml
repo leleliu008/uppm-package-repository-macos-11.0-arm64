@@ -1,5 +1,5 @@
 summary: A popular data compression program developed by GNU
 webpage: https://www.gnu.org/software/gzip
 version: 1.13
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/gzip-1.13-macos-11.0-arm64.tar.xz
-bin-sha: 8db44eda5e0bb98e2f6bd43b3ad15d5294b22cdec831461be9bec5ab2a05fcec
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/gzip-1.13-macos-11.0-arm64.tar.xz
+bin-sha: 26bd7e92dcde0aee7d99312cffd324e3f18dcabb25fd4b9bcbdeb32eda187a2b

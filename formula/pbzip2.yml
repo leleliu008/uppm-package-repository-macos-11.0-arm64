@@ -1,5 +1,5 @@
 summary: Parallel bzip2
 webpage: http://compression.great-site.net/pbzip2/
 version: 1.1.13
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/pbzip2-1.1.13-macos-11.0-arm64.tar.xz
-bin-sha: d2ab4de509e1d320cb620db102389e945979e2707129c7a6acc67686eeae9c86
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/pbzip2-1.1.13-macos-11.0-arm64.tar.xz
+bin-sha: 37dd217af0ca62186c3e94f67e16afe8560c125077448b5507d5cc82da07a405

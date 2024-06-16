@@ -1,5 +1,5 @@
 summary: Human-friendly and fast alternative to cut and (sometimes) awk
 webpage: https://github.com/theryangeary/choose
 version: 1.3.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/choose-1.3.4-macos-11.0-arm64.tar.xz
-bin-sha: 35a0b7c17f3ceff0006f7e848a346d05ee06cad49da706cc0876fea4394e0e5b
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/choose-1.3.4-macos-11.0-arm64.tar.xz
+bin-sha: 067b6b4888cf567f646169f919ccf9cfaf7ba5b6c994765861262791a79289b2

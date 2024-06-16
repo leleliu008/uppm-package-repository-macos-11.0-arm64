@@ -1,5 +1,5 @@
 summary: A terminal based markdown reader
 webpage: https://github.com/charmbracelet/glow
 version: 1.5.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/glow-1.5.1-macos-11.0-arm64.tar.xz
-bin-sha: 67a570a5cea224f8e8c635e551f1c3e52de60c28e4bb5469804a7037a3c421f3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/glow-1.5.1-macos-11.0-arm64.tar.xz
+bin-sha: f7071db298ba7b1a07dada31f5af4b072c374475940323e35046896fb2ca25f7

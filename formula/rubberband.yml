@@ -1,5 +1,5 @@
 summary: Audio time stretcher tool and library
 webpage: https://breakfastquay.com/rubberband/
 version: 3.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/rubberband-3.3.0-macos-11.0-arm64.tar.xz
-bin-sha: 3017ef471a34479df20c23b389adb428942fd85baae35aff9bb1b8a18dc1f11e
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/rubberband-3.3.0-macos-11.0-arm64.tar.xz
+bin-sha: 67dc0fdeb75ea965edf8f3d67e76a48397f7f03ab1be6b9a742b6d88af656a4a

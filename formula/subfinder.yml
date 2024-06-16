@@ -1,5 +1,5 @@
 summary: Subdomain discovery tool
 webpage: https://github.com/projectdiscovery/subfinder
 version: 2.6.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/subfinder-2.6.6-macos-11.0-arm64.tar.xz
-bin-sha: 590c7d224e85f8ae6fe23cb2e8d3bf98e13755286d304f295bc207b1b3b23186
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/subfinder-2.6.6-macos-11.0-arm64.tar.xz
+bin-sha: f5e73602b7a5cd6ef1cb1eda8b9c6990e5d1734ffb417080f932f4a3daa95a27

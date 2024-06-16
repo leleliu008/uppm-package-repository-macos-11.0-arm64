@@ -1,5 +1,5 @@
 summary: Powerful wavelet image compressor
 webpage: https://epsilon-project.sourceforge.io
 version: 0.9.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/epsilon-0.9.2-macos-11.0-arm64.tar.xz
-bin-sha: dcd1bcb983682c970236b9fb9a3ae9dace8fc90e2f5f393df7a5114a858794fd
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/epsilon-0.9.2-macos-11.0-arm64.tar.xz
+bin-sha: ce473baeff0efcdf2b4f96030b6a8a545e85f2a275940a73d6e1f518b2ba1811

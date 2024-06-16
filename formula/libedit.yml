@@ -1,5 +1,5 @@
 summary: BSD-style licensed readline alternative
 webpage: https://thrysoee.dk/editline
 version: 3.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libedit-3.1-macos-11.0-arm64.tar.xz
-bin-sha: bb06ef43505017f14d8b8f2ad0be244691f76a747465042126627f629fa5085f
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libedit-3.1-macos-11.0-arm64.tar.xz
+bin-sha: bc00b5c845cd0ca43061eedccb9eb6d29ff5b51d6d4c7b274a4cd0c277d616ec

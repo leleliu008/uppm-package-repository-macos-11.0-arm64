@@ -1,0 +1,5 @@
+summary: Computational Geometry Algorithms Library
+webpage: https://www.cgal.org/
+version: 5.6.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/cgal-5.6.1-macos-11.0-arm64.tar.xz
+bin-sha: d655385c3cec213aa0af55b0284e2d9be83e0d70f17579ad3ef80959632ebf10

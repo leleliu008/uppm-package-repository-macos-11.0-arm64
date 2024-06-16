@@ -1,0 +1,5 @@
+summary: Library for SVG files
+webpage: https://cairographics.org/
+version: 0.1.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libsvg-0.1.4-macos-11.0-arm64.tar.xz
+bin-sha: a77345779621e876dec1763729ff15cc8fa771180a3a4ac83ef6d7b8b9e33501

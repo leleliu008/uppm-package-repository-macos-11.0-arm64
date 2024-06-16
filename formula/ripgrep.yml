@@ -1,5 +1,5 @@
 summary: A command-line tool for searching files for a regex pattern
 webpage: https://github.com/BurntSushi/ripgrep
 version: 14.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/ripgrep-14.1.0-macos-11.0-arm64.tar.xz
-bin-sha: 259060c60852fed8e9e42c558bdb07d85e25de8e09d25debfb28b533c3513a1a
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/ripgrep-14.1.0-macos-11.0-arm64.tar.xz
+bin-sha: 7ed1e9baff5aefbc9396653d92ed92d9e8ad04b9846427e8abb2f946a480fa6f

@@ -1,5 +1,5 @@
 summary: A pretty fast disk usage analyzer with console interface written in Go
 webpage: https://github.com/dundee/gdu
 version: 5.28.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/gdu-5.28.0-macos-11.0-arm64.tar.xz
-bin-sha: fb987dc01795f6f7abd41f9a680c864c715196c3cb8b740fc011a073b19e6a5f
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/gdu-5.28.0-macos-11.0-arm64.tar.xz
+bin-sha: d23fded1438db629c98ed0930250585c93aef902a7aaddb458c274a081109436

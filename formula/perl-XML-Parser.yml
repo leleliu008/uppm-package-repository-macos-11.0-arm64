@@ -1,5 +1,5 @@
 summary: A perl module for parsing XML documents
 webpage: https://github.com/toddr/XML-Parser
 version: 2.47
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/perl-XML-Parser-2.47-macos-11.0-arm64.tar.xz
-bin-sha: ba280d7d6085ddbbb74f0b44acb236927a1b8a0c0fb3623db16dd20240f7744e
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/perl-XML-Parser-2.47-macos-11.0-arm64.tar.xz
+bin-sha: b41ce9f660d0e6cb7cf3179dcc2a909fc88c1deb545775bac54880dcae96af12

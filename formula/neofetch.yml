@@ -1,5 +1,5 @@
 summary: Fast, highly customisable system info script
 webpage: https://github.com/dylanaraps/neofetch
 version: 7.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/neofetch-7.1.0-macos-11.0-arm64.tar.xz
-bin-sha: ac8865ece63407f8cc7a90c108d7924ed44e5ead152b31cec94b5cd7d9badf62
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/neofetch-7.1.0-macos-11.0-arm64.tar.xz
+bin-sha: 9b039392bccad258e51774c3d82385dd6463659936b6359c407c9737a53f34a1

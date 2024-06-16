@@ -1,0 +1,5 @@
+summary: CBOR protocol implementation for C and others
+webpage: https://github.com/PJK/libcbor
+version: 0.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libcbor-0.11.0-macos-11.0-arm64.tar.xz
+bin-sha: aafe7c5b9f9f69f2eeac66e32bda5ed4249b63b078a0d07641cf05a06eecb185

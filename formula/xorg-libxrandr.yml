@@ -1,5 +1,5 @@
 summary: X.Org X Resize, Rotate and Reflection extension library
 webpage: https://www.x.org/
 version: 1.5.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/xorg-libxrandr-1.5.3-macos-11.0-arm64.tar.xz
-bin-sha: 382dfcd7c0f462d2fc20eec49ae872162702fe2ec7135b6af8983b249cfed19b
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/xorg-libxrandr-1.5.3-macos-11.0-arm64.tar.xz
+bin-sha: 2063d0e61e83a06ea5a889cb17740995531f479552afbe228ef929e56023b643

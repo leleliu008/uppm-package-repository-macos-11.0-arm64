@@ -1,5 +1,5 @@
 summary: Library for writing preformatted data onto optical media e.g. CD, DVD and BD (Blu-Ray)
 webpage: https://www.libburnia-project.org
 version: 1.5.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libburn-1.5.2-macos-11.0-arm64.tar.xz
-bin-sha: 151ecdd55109b969ecec2d5123b292a1befc39598b1d8bdb7bc5042ae0595bd2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libburn-1.5.2-macos-11.0-arm64.tar.xz
+bin-sha: 2dd8361098fc0e6559d7b6a4665a832b706ea9d1fc54c7aaa7b08bbaa06390bd

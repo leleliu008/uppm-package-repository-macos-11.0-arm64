@@ -1,5 +1,5 @@
 summary: A perceptual image hash calculation tool based on algorithm descibed in Block Mean Value Based Image Perceptual Hashing by Bian Yang, Fan Gu and Xiamu Niu
 webpage: https://github.com/commonsmachinery/blockhash
 version: 0.3.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/blockhash-0.3.3-macos-11.0-arm64.tar.xz
-bin-sha: 0706b163b01cebaaa2bf783dd774c9ad227432cb33c9a573a43e785ad909ea04
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/blockhash-0.3.3-macos-11.0-arm64.tar.xz
+bin-sha: 60ae0ee4f7ed88c3b8d745ac809b9ec0aa30f05078e2f70d02f35cca30d7e45c

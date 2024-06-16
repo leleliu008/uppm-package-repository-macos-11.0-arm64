@@ -1,5 +1,5 @@
 summary: A C library to communicate with iOS devices natively
 webpage: https://www.libimobiledevice.org
 version: 1.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libimobiledevice-1.3.0-macos-11.0-arm64.tar.xz
-bin-sha: 5c52a0c5ea369326caa559adb5faf08eac2ef8663742421fb3b7a912c7f62fc6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libimobiledevice-1.3.0-macos-11.0-arm64.tar.xz
+bin-sha: 0b9a588ed702e5d563e172ebd34cce9196f064810b5d9a7f8e76ef1aa21ce23c

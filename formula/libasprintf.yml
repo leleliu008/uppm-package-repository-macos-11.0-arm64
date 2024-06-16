@@ -1,0 +1,5 @@
+summary: C-style formatted output in C++
+webpage: https://www.gnu.org/software/gettext
+version: 0.22.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libasprintf-0.22.5-macos-11.0-arm64.tar.xz
+bin-sha: d7d18578975d73d341241b5566c7f3f0550d88163df52e3fd566e99c31c0493a

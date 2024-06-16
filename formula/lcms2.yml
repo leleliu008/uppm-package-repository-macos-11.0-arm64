@@ -1,5 +1,5 @@
 summary: Color management engine supporting ICC profiles
 webpage: https://www.littlecms.com
 version: 2.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/lcms2-2.16-macos-11.0-arm64.tar.xz
-bin-sha: 444ee94ccea680f21efa234ca6a810c687a68c63f99a2c52fea904ee9a99e8ae
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/lcms2-2.16-macos-11.0-arm64.tar.xz
+bin-sha: 68b4038efeb4ca72ecf19d75e28f089cedb7bb74c2bd339db45d0d4933dd28b2

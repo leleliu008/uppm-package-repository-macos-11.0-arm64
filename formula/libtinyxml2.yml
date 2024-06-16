@@ -1,5 +1,5 @@
 summary: A simple, small, efficient, C++ XML parser library
 webpage: http://grinninglizard.com/tinyxml2
 version: 10.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/libtinyxml2-10.0.0-macos-11.0-arm64.tar.xz
-bin-sha: a836f0470e0de9cced51dee19f7d36fad31a657b7c858135bc4a7e1636ca4bf4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libtinyxml2-10.0.0-macos-11.0-arm64.tar.xz
+bin-sha: df0b6d3b4d84f2ec9a9d2a02ba8d0f647ae894ae471ed3f6ab01ec4e8758e4e0

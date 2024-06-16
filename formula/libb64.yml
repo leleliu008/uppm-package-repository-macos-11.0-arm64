@@ -1,0 +1,5 @@
+summary: Base64 encoding/decoding library
+webpage: https://libb64.sourceforge.net/
+version: 1.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/libb64-1.2.1-macos-11.0-arm64.tar.xz
+bin-sha: 624d1dcd17021c4c4b9fea47c7b92bbcad81e187e6059ba2be4465c67b75873d

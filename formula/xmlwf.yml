@@ -1,5 +1,5 @@
 summary: XML 1.0 parser
 webpage: https://libexpat.github.io
 version: 2.6.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/xmlwf-2.6.2-macos-11.0-arm64.tar.xz
-bin-sha: 4d79bff037310d16ca77df147c653ac17522688ded3eb131d98ff745015aa63c
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/xmlwf-2.6.2-macos-11.0-arm64.tar.xz
+bin-sha: 6b7ca46fe47731c5caba3d475d4d1b9c25f1ae91afeab10ba397b741d87227fc

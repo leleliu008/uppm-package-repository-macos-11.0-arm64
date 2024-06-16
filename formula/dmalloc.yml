@@ -1,5 +1,5 @@
 summary: Debug versions of system memory management routines
 webpage: https://dmalloc.com/
 version: 5.6.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/dmalloc-5.6.5-macos-11.0-arm64.tar.xz
-bin-sha: b611a869040cc921ac64ca4ef0606008a0d2ae039526334e457bf65cc50a25b1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/dmalloc-5.6.5-macos-11.0-arm64.tar.xz
+bin-sha: 040f60a14dd511458a8a7ad6e6bd0a5a212c52d39bc257b8ce5c70668917c1b9

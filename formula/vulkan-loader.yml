@@ -1,5 +1,5 @@
 summary: Vulkan ICD Loader
 webpage: https://github.com/KhronosGroup/Vulkan-Loader
 version: 1.3.280
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.05.31/vulkan-loader-1.3.280-macos-11.0-arm64.tar.xz
-bin-sha: 99348f449e45cef5165e2892e823071f8d7df0fdd6e545a7726411ba704ad7b9
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/vulkan-loader-1.3.280-macos-11.0-arm64.tar.xz
+bin-sha: e5dbd52693ec65209185fbf4b2668598968ec4f43176e543e78ad09181d3f3d6

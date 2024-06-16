@@ -1,0 +1,5 @@
+summary: Cartographic Projections Library
+webpage: https://proj.org/
+version: 9.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2024.06.16/proj-9.4.0-macos-11.0-arm64.tar.xz
+bin-sha: a3b68706e9205476b8b803e782d22681ebeff8953f1ba812668304dee0fbb6af
